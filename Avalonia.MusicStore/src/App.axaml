@@ -3,11 +3,11 @@
              xmlns:local="using:Avalonia.MusicStore"
              x:Class="Avalonia.MusicStore.App">
     <Application.DataTemplates>
-        <local:ViewLocator/>
+        <local:ViewLocator />
     </Application.DataTemplates>
 
     <Application.Styles>
-        <FluentTheme Mode="Dark"/>
-        <StyleInclude Source="avares://Avalonia.MusicStore/Icons.axaml" />
+        <FluentTheme Mode="Dark" />
+        <StyleInclude Source="avares://Avalonia.MusicStore/src/Icons.axaml" />
     </Application.Styles>
 </Application>

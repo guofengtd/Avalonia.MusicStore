@@ -10,7 +10,7 @@
         Background="Transparent"
         TransparencyLevelHint="AcrylicBlur"
         ExtendClientAreaToDecorationsHint="True"
-        Icon="/Assets/avalonia-logo.ico"
+        Icon="/src/Assets/avalonia-logo.ico"
         Title="Avalonia.MusicStore">
 
     <Design.DataContext>
