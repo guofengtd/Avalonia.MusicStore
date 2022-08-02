@@ -8,10 +8,10 @@
         <AvaloniaResource Include="src\Assets\**" />
     </ItemGroup>
     <ItemGroup>
-        <PackageReference Include="Avalonia" Version="0.10.0" />
-        <PackageReference Include="Avalonia.Desktop" Version="0.10.0" />
-        <PackageReference Include="Avalonia.Diagnostics" Version="0.10.0" />
-        <PackageReference Include="Avalonia.ReactiveUI" Version="0.10.0" />
+        <PackageReference Include="Avalonia" Version="0.10.17" />
+        <PackageReference Include="Avalonia.Desktop" Version="0.10.17" />
+        <PackageReference Include="Avalonia.Diagnostics" Version="0.10.17" />
+        <PackageReference Include="Avalonia.ReactiveUI" Version="0.10.17" />
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\Avalonia.MusicStore.Backend\Avalonia.MusicStore.Backend.csproj" />
