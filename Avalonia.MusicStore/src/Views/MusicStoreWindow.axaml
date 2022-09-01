@@ -6,8 +6,6 @@
         x:Class="Avalonia.MusicStore.Views.MusicStoreWindow"
         xmlns:local="using:Avalonia.MusicStore.Views"
         Width="1000" Height="550" WindowStartupLocation="CenterOwner"
-        Background="Transparent"
-        TransparencyLevelHint="AcrylicBlur"
         ExtendClientAreaToDecorationsHint="True"
         Title="MusicStoreWindow">
     <Panel>
